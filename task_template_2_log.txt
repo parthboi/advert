@@ -1,0 +1,26 @@
+Message Links Log:
+{
+    "U5UTUBIUFJR0TYAA": {
+        "plan_start": 1736348640.159487,
+        "plan_end": 1736359440.159557,
+        "target": 20,
+        "last_updated": 1736348640.159649,
+        "total_sent": 0,
+        "sessions_today": 1,
+        "user_id": 6297253770,
+        "msg_link": "https://t.me/neveriqs/33",
+        "template": "template_1"
+    },
+    "YQB4E2UTJBARIZ9D": {
+        "plan_start": 1736403863.185161,
+        "plan_end": 1736414663.204735,
+        "target": 13,
+        "last_updated": 1736403863.204984,
+        "total_sent": 9,
+        "sessions_today": 2,
+        "user_id": 6297253770,
+        "msg_link": "https://t.me/neveriqs/33",
+        "template": "template_2"
+    }
+}
+this is ads.json loaded as ads variable alright i wanna write a code python that looks at sessions_today it can be maximum 3 and min 0 if its 3 and last updated timestamp is yesterday's then it'll reset back to 0, also do one thing if plan end timestamp is
